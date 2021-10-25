@@ -25,7 +25,7 @@ export const projects = [
       "The Feed is a Full-stack MEN Application that allows for users to create a profile and post status's from that account! Along with seeing other user's posts and their profiles! This project features a User model and a user’s post model which had full CRUD and were associated to each other. We also added user login and sign out methods!",
     exp_title: "Project Difficulties",
     exp: "This was my first peer programming project and my biggest challenge was 100% git work flow because I never used branches or merged work in git before but I am glad I went through this experience because it taught me a lot!! Another accomplishment was learning model associations for the very first time that way we can set associations to our users and their specific created content! I had to learn this mid project so I am super proud that I finished with a good understanding of one to many relationships!",
-    link: "https://reactbootcamp.com",
+    link: "https://the-feed-deployment.herokuapp.com/registration",
   },
   {
     title: "Film App",
@@ -34,7 +34,7 @@ export const projects = [
       "Film App is a simple React application that uses a movie API to fetch details of movies and displays their contents to the user! Along with being able to add the given movies to their favorites list!",
     exp_title: "Project Difficulties",
     exp: "This was my very first time using an API and also creating a filter option for data! It was extremely fun and a difficulty I faced with this project was understanding props since React was so new to me however I ended.",
-    link: "https://the-feed-deployment.herokuapp.com/registration",
+    link: "https://film-app.surge.sh/",
   },
 ]
 
