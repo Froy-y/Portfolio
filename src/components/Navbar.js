@@ -1,6 +1,5 @@
 
 import React from "react"
-import { HiOutlineChatAlt } from "react-icons/hi";
 
 const Navbar = () => {
   return (
@@ -26,7 +25,6 @@ const Navbar = () => {
           href="#contact"
           className="inline-flex items-center border-0 py-1 px-3 focus:outline-none hover:text-white rounded text-base mt-4 md:mt-0">
           Interested in me
-          <HiOutlineChatAlt className="w-5 h-8 ml-2" />
         </a>
       </div>
     </header>
